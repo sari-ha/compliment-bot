@@ -1,0 +1,23 @@
+{
+  "name": "compliment-bot",
+  "version": "1.0.0",
+  "description": "A Slackbot that takes your compliments (to others) and posts them anonymously in a public channel",
+  "main": "index.js",
+  "dependencies": {
+    "node-slackbot": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarieha/compliment-bot.git"
+  },
+  "author": "Sarie Hale-Alper & Kelly Hale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarieha/compliment-bot/issues"
+  },
+  "homepage": "https://github.com/sarieha/compliment-bot#readme"
+}
