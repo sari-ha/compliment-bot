@@ -2,11 +2,10 @@
   "name": "compliment-bot",
   "version": "1.0.0",
   "description": "A Slackbot that takes your compliments (to others) and posts them anonymously in a public channel",
-  "main": "index.js",
+  "main": "bot.js",
   "dependencies": {
     "node-slackbot": "0.0.6"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
